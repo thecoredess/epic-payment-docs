@@ -10,14 +10,14 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://dbkl.github.io',
+  url: 'https://thecoredess.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/epic-payment-docs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'DBKL', // Usually your GitHub org/user name.
+  organizationName: 'thecoredess', // Usually your GitHub org/user name.
   projectName: 'epic-payment-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
