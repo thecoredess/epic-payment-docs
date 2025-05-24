@@ -74,12 +74,6 @@ const config: Config = {
           label: 'API Reference',
         },
         {
-          type: 'docSidebar',
-          sidebarId: 'businessSidebar',
-          position: 'left',
-          label: 'System Design',
-        },
-        {
           href: 'https://github.com/DBKL/epic-payment-docs',
           label: 'GitHub',
           position: 'right',
