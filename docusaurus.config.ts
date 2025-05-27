@@ -134,7 +134,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Dewan Bandaraya Kuala Lumpur (DBKL). Built with Docusaurus.`,
+      copyright: `Copyright © 2024 Dewan Bandaraya Kuala Lumpur (DBKL). Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
